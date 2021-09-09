@@ -1,3 +1,3 @@
 # chiragxd.ml
 Portfolio Website
-chiragxd.ml
+www.chiragxd.ml
