@@ -1,3 +1,3 @@
 # chiragxd.ml
 Portfolio Website
-www.chiragxd.ml
+https://chiragxd.github.io/chiragxd.ml/
